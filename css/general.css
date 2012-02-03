@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ball {
+margin: 20px auto;
+width: 200px;
+height: 200px;
+background: #333;
+-moz-border-radius: 40px;
+-webkit-border-radius: 40px;
+
+  background-color: #bad600;
+  border: 10px solid #000;
+  border-radius: 110px;
+
+  font-size:2em;
+  font-weight: bold;
+  line-height: 175px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#hide{
+  float: right;
+}
+
+	
